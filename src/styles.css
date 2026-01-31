@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Tab_based_Component {
+  min-height: 100vh;
+  width: 100vw;
+  background-color: grey;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  cursor: pointer;
+  font-size: medium;
+  font-style: bold;
+  font-family: Segoe UI;
+}

@@ -1,0 +1,19 @@
+.calcy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+.inputPlate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.buttonPlate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
